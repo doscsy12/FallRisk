@@ -9,5 +9,5 @@ The aim of this project is to develop and train predictive models to assess and 
 | notebook                | description |
 |-------------------------|--------------|
 |        |        |
-| 
+
 
